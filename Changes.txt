@@ -2,9 +2,6 @@ First file
 dfgdxdxfsd
 GFHGKFHKGj
 123456789
-<<<<<<< HEAD
 789456123
-=======
 789456123
 11111111
->>>>>>> refs/remotes/origin/master
